@@ -9,8 +9,9 @@ export default function Navbar() {
       <Link href="/dashboard">Home</Link>
       <Link href="/profile">Profile</Link>
       <Link href="/about">About</Link>
-      <Link href="/products/1">Product 1</Link>
-      <Link href="/products/2">Product 2</Link>
+      <Link href="/contact">Kontak</Link>
+      <Link href="/products/1">Product Awal</Link>
+      <Link href="/products/2">Product Lanjutan</Link>
     </nav>
   );
 }
